@@ -1,6 +1,6 @@
-# G'day, I am Kerosene.
-## I'm a aspiring backend developer specializing in python
+# G'day, I am Jack.
+## I'm a aspiring Full-Stack developer specializing in python
 
-- 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently learning Python and Vue
 - 💻 Epic hackerman
 - ☕️ Caffeine addict 
